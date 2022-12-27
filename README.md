@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rupeshkumar4
 - 👀 I’m interested in ... Web development & python 
 - 🌱 I’m currently learning ... Python 
-- 💞️ I’m looking to collaborate on ... Full Stack Developer
+- 💞️ I’m looking to collaborate on ... Full Stack Developer, And Python Projects.
 - 📫 How to reach me ... geniusrupeshkumar@gmail.com
 
 <!---
