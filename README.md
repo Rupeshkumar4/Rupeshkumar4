@@ -8,3 +8,5 @@
 Rupeshkumar4/Rupeshkumar4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Skills 
+         Python, C, CPP, HTML, Css, BootStrap, TailWind, JavaScript, Jquery, MySql, PHP, Tkinter. 
